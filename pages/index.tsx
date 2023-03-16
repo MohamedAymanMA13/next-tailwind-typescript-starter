@@ -8,7 +8,7 @@ const IndexPage = () => (
       <Link href="/about">About</Link>
     </p> */}
 
-    <div className="bg-[url('../assets/bg.png')] h-screen bg-cover bg-center  flex items-center    justify-center   bg-fixed   ">
+    <div className="bg-[url('../assets/bg.png')] h-[88vh]	 bg-cover bg-center  flex items-center    justify-center   bg-fixed   ">
     <div className='absolute top-0 left-0 right-0 bottom-0 bg-black/30 z-[2]' />
       <div className='p-5 text-white z-[2] mx-auto pb-[20rem]'>
         <h2 className='text-4xl font-bold'>Hello</h2>

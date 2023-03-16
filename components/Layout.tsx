@@ -22,29 +22,7 @@ const Layout = ({ children, title = "This is the default title" ,content = 'x' }
     
     <ChakraProvider> {children}</ChakraProvider>
     <footer>
-      <hr />
       <span>I'm here to stay (Footer)</span>
-      <div>
-        <h1>Hello</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et autem in, repellendus deleniti atque sequi nemo doloribus beatae veritatis, dicta doloremque nihil repellat illum reprehenderit maxime nesciunt totam minima! Expedita?</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et autem in, repellendus deleniti atque sequi nemo doloribus beatae veritatis, dicta doloremque nihil repellat illum reprehenderit maxime nesciunt totam minima! Expedita?</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et autem in, repellendus deleniti atque sequi nemo doloribus beatae veritatis, dicta doloremque nihil repellat illum reprehenderit maxime nesciunt totam minima! Expedita?</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et autem in, repellendus deleniti atque sequi nemo doloribus beatae veritatis, dicta doloremque nihil repellat illum reprehenderit maxime nesciunt totam minima! Expedita?</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et autem in, repellendus deleniti atque sequi nemo doloribus beatae veritatis, dicta doloremque nihil repellat illum reprehenderit maxime nesciunt totam minima! Expedita?</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et autem in, repellendus deleniti atque sequi nemo doloribus beatae veritatis, dicta doloremque nihil repellat illum reprehenderit maxime nesciunt totam minima! Expedita?</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et autem in, repellendus deleniti atque sequi nemo doloribus beatae veritatis, dicta doloremque nihil repellat illum reprehenderit maxime nesciunt totam minima! Expedita?</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et autem in, repellendus deleniti atque sequi nemo doloribus beatae veritatis, dicta doloremque nihil repellat illum reprehenderit maxime nesciunt totam minima! Expedita?</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et autem in, repellendus deleniti atque sequi nemo doloribus beatae veritatis, dicta doloremque nihil repellat illum reprehenderit maxime nesciunt totam minima! Expedita?</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et autem in, repellendus deleniti atque sequi nemo doloribus beatae veritatis, dicta doloremque nihil repellat illum reprehenderit maxime nesciunt totam minima! Expedita?</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et autem in, repellendus deleniti atque sequi nemo doloribus beatae veritatis, dicta doloremque nihil repellat illum reprehenderit maxime nesciunt totam minima! Expedita?</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et autem in, repellendus deleniti atque sequi nemo doloribus beatae veritatis, dicta doloremque nihil repellat illum reprehenderit maxime nesciunt totam minima! Expedita?</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et autem in, repellendus deleniti atque sequi nemo doloribus beatae veritatis, dicta doloremque nihil repellat illum reprehenderit maxime nesciunt totam minima! Expedita?</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et autem in, repellendus deleniti atque sequi nemo doloribus beatae veritatis, dicta doloremque nihil repellat illum reprehenderit maxime nesciunt totam minima! Expedita?</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et autem in, repellendus deleniti atque sequi nemo doloribus beatae veritatis, dicta doloremque nihil repellat illum reprehenderit maxime nesciunt totam minima! Expedita?</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et autem in, repellendus deleniti atque sequi nemo doloribus beatae veritatis, dicta doloremque nihil repellat illum reprehenderit maxime nesciunt totam minima! Expedita?</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et autem in, repellendus deleniti atque sequi nemo doloribus beatae veritatis, dicta doloremque nihil repellat illum reprehenderit maxime nesciunt totam minima! Expedita?</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et autem in, repellendus deleniti atque sequi nemo doloribus beatae veritatis, dicta doloremque nihil repellat illum reprehenderit maxime nesciunt totam minima! Expedita?</p>
-      </div>
     </footer>
   </div>
 );

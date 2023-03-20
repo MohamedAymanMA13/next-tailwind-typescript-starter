@@ -1,7 +1,8 @@
 import React from "react";
+import Image from "next/image";
 import Link from "next/link";
-import { Button, ButtonGroup } from "@chakra-ui/react";
-
+import { Button } from "@chakra-ui/react";
+import Logo from "../assets/logo.svg"
 // type Props = {
 //   data: User
 // }
@@ -16,8 +17,8 @@ const Navbar = () => (
         </Button>
       </div>
       <div className=" bg-gray-50">
-        <div className=" container mx-auto flex justify-between items-center py-4 px-4">
-          <div className="">Applatin</div>
+        <div className=" container mx-auto flex justify-between items-center py-3 ">
+          <div className=""><Link href="/"><Image src={Logo} alt="Logo" className=" w-full" /></Link></div>
           <div className=" hidden md:flex gap-4">
             <Link href="/">Home</Link>
             <Link href="/about">About</Link>
